@@ -8,10 +8,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.questglobal</groupId>
-	<artifactId>student-registration</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>student-management-portal</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>student-registration</name>
-	<description>Project for Student Registration Spring Boot</description>
+	<description>A Spring Boot Project for Student Management</description>
 	<url />
 	<licenses>
 		<license />
